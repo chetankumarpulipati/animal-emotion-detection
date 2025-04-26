@@ -74,6 +74,8 @@ This project aims to detect the emotions of dogs from images using computer visi
 * The model achieves reasonable accuracy on the dog emotion recognition task.
 * Further improvements can be made by increasing the size and diversity of the training data, experimenting with different model architectures, and fine-tuning hyperparameters.
 
+![output](output.jpeg)
+
 ## Future Work
 
 * Explore more advanced face detection methods, such as MTCNN or YOLO.
